@@ -1,2 +1,3 @@
-print("Welcome")
-print ("uff")
+import keyword
+print ("python keywords are....:")
+print (keyword.kwlist)
